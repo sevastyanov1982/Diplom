@@ -2,8 +2,8 @@
 
 ### Документация
 1. [План автоматизации тестирования](https://github.com/sevastyanov1982/Diplom/blob/master/documentation/Plan.md)
-2. [Отчет по итогам тестирования] 
-3. [Отчет по итогам автоматизации тестирования]
+2. [Отчет по итогам тестирования](https://github.com/sevastyanov1982/Diplom/blob/master/documentation/Report.md)
+3. [Отчет по итогам автоматизации тестирования](https://github.com/sevastyanov1982/Diplom/blob/master/documentation/Summary.md)
 
 ### Необходимое окружение:
 * установленный Node.js
