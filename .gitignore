@@ -4,6 +4,9 @@ HELP.md
 .gradle
 build/
 target/
+data_mysql
+.allure
+mysql_data
 
 ### STS ###
 .apt_generated
